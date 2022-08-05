@@ -1,0 +1,43 @@
+	<!DOCTYPE html> 
+<html<!DOCTYPE html> 
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="style.css">
+<title>Untitled</title>
+</head>
+
+<body> 
+
+<p class="logo">logo left </p>
+
+	<header>
+	<h1> Quizz time ! </h1>
+
+	</header>
+		
+
+<div class="Q2">
+
+<p> Q2 </p>
+<li> <a href="pagefaux.html">réponse 1</a></li>
+<li> <a href="pagefaux.html"> réponse 2</a> </li>
+<li>  <a href="pagevrai.html"> réponse 3</a></li>
+	
+</div>
+
+
+	<footer>
+
+<p>
+
+	 Copyright, Johanna
+	
+	</p> <!--a href="" peut aussi sercir pour télécharger des documents; en ajoutant le no, du fichier à télécharger en .zip ou .jpg etc...-->
+
+	</footer>
+
+
+</body>
+
+</html>
